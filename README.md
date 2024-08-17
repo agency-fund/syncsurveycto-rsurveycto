@@ -1,5 +1,7 @@
 ## Setup
 
+1. fork this repo
+1. rename a few files
 1. create secrets folder
 1. in secrets folder, create scto_auth.txt
 1. create service account
