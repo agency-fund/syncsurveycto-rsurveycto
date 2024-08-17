@@ -13,5 +13,6 @@
 1. update warehouse.yaml file, including auth_file based on name of json file
 1. update surveycto.yaml file
 
-- create secrets SCTO_AUTH and GOOGLE_TOKEN for GitHub Actions
-- make sure GitHub secret SCTO_AUTH has no trailing line break
+1. in forked repo, create github actions secrets SCTO_AUTH and WH_AUTH, making sure SCTO_AUTH has no trailing line break
+
+1. for postgres, do stuff
