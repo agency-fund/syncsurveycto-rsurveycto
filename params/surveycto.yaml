@@ -12,7 +12,7 @@ environments:
 
   - name: dev
     streams:
-      # - id: bailiwicks
-      #   sync_mode: overwrite
-      # - id: hh_listing_example_1
-      #   sync_mode: deduped
+      - id: bailiwicks
+        sync_mode: overwrite
+      - id: hh_listing_example_1
+        sync_mode: deduped
