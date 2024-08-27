@@ -1,3 +1,5 @@
+[![sync_surveycto](https://github.com/agency-fund/syncsurveycto-rsurveycto/actions/workflows/sync_surveycto.yaml/badge.svg)](https://github.com/agency-fund/syncsurveycto-rsurveycto/actions/workflows/sync_surveycto.yaml)
+
 # Overview
 
 Extract and load.
